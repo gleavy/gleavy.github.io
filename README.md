@@ -1,5 +1,17 @@
 # Educational Material
-## Core
+
+| Rank | Programming Language |
+|:----:|:---------------------|
+| 1    | Python               |
+| 2    | C                    |
+
+
+---
+
+<details>
+  <Summary>Programmming Languages</Summary>
+
+  ## Core
 - Python
 - C
 - C++
@@ -8,6 +20,7 @@
 - Swift
 - Lua
 - Haskell
+- Dart / Flutter
 
 ## Legacy
 - Racket
@@ -15,3 +28,5 @@
 - Clojure
 - Prolog
 - Forth
+
+</details>
